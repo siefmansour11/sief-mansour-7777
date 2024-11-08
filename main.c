@@ -2,7 +2,7 @@
 #include "main.h"     
 
 void print_sief() {
-    printf("Hello, sief basha habib alpi!\n");
+    printf("Hello, sief basha !\n");
 }
 
 int main() {
